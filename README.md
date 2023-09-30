@@ -16,7 +16,7 @@ GitHub Stats:
 
 ---
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/im-arjun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjunsasidharan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ArjunSasidaran_) 
-[![](https://visitcount.itsvg.in/api?id=arjun-sasidharan&icon=5&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=arjun-sasidharan&icon=5&color=6)](https://github.com/arjun-sasidharan)
 
 
 
